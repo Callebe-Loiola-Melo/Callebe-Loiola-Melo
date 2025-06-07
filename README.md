@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando códigos desde 2024<br>📚 Atualmente estudando Análise e Desenvolvimento de Sistemas e Desenvolvimento Web na Uniprojeção e pela Alura<br>💼 Trabalho com desenvolvimento de landing pages<br>🎯 Meu objetivo: Me especializar em desenvolvimento web full stack e construir projetos inovadores<br>🎲 Curiosidade: Sempre busco novas formas de aprimorar minhas habilidades e aprender novas tecnologias</p>
+<p align="left">✨ Criando códigos desde 2024<br>📚 Atualmente estudando Análise e Desenvolvimento de Sistemas e Desenvolvimento Web na Uniprojeção e pela Alura<br>💼 Trabalho com desenvolvimento de Sites<br>🎯 Meu objetivo: Me especializar em desenvolvimento web full stack e construir projetos inovadores<br>🎲 Curiosidade: Sempre busco novas formas de aprimorar minhas habilidades e aprender novas tecnologias</p>
 
 ###
 
