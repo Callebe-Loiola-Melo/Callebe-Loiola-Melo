@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Callebe e sou um estudante de Análise e Desenvolvimento de Sistemas em Brasília-DF. Atualmente, trabalho com o desenvolvimento de landing pages, mas meu objetivo é me tornar um desenvolvedor web full stack.</p>
+<p align="left">Meu nome é Callebe e sou um estudante de Análise e Desenvolvimento de Sistemas em Brasília-DF. Atualmente, trabalho com o desenvolvimento de landing pages e alguns sites comerciais, mas meu objetivo é me tornar um desenvolvedor web full stack.</p>
 
 ###
 
